@@ -1,0 +1,27 @@
+.box1{
+    width: 250px;
+    height: 50px;
+    margin: 10px;
+    border: 10px solid orange;
+    padding: 80px;
+}
+.box2{
+    width: 250px;
+    height: 50px;
+    margin: 10px;
+    border: 10px solid blueviolet;
+    padding: 80px;
+    
+}
+
+/* .row{
+    border: 5px solid red;
+    
+}
+.col{
+    border: solid pink ;
+    
+}
+.container-lg{
+    border: 5px solid green;
+} */
